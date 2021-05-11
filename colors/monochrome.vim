@@ -5,7 +5,7 @@
 " License:    MIT
 " Forked from: https://github.com/fxn/vim-monochrome
 
-let g:colors_name = "monochrome1"
+let g:colors_name = "monochrome"
 
 
 set background=dark
