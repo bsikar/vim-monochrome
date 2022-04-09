@@ -1,6 +1,6 @@
 " Vim color file
 " Name:       monochrome.vim
-" Maintainer: Brighton Sikarskie <brighton.sikarskie@tuta.io>
+" Maintainer: Brighton Sikarskie <bsikar@tuta.io>
 " Homepage:   https://github.com/bsikar/vim_monochrome/
 " License:    MIT
 " Forked from: https://github.com/fxn/vim-monochrome
