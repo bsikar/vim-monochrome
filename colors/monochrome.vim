@@ -1,4 +1,3 @@
-" Vim color file
 " Name:       monochrome.vim
 " Maintainer: Brighton Sikarskie <bsikar@tuta.io>
 " Homepage:   https://github.com/bsikar/vim-monochrome/
@@ -197,3 +196,4 @@ call s:hi('NeomakeError', s:yellow)
 call s:hi('NeomakeInfo', s:default_fg, s:default_bg, s:bold)
 call s:hi('NeomakeMessage')
 call s:hi('NeomakeWarning', s:yellow)
+
